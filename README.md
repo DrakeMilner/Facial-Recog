@@ -51,5 +51,13 @@ Materials:
 ⦁	PySerial(pip)
 
 ⦁	Arduino IDE
+
 ⦁	Arduino Mega 2560
+
 ⦁	Visual Studio Code
+
+Videos:
+
+https://www.youtube.com/watch?v=_31oDYL127c&list=PLjYKb0_j7TlhsC1xuzu6w2Y-oPeT4ZDMH&pp=gAQB
+
+

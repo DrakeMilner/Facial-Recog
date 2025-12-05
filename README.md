@@ -57,7 +57,12 @@ Materials:
 ⦁	Visual Studio Code
 
 Videos:
+My personal
 
 https://www.youtube.com/watch?v=_31oDYL127c&list=PLjYKb0_j7TlhsC1xuzu6w2Y-oPeT4ZDMH&pp=gAQB
+
+Online Help with setting up arduino
+
+https://youtu.be/dpoBwmuE2QE?si=XxIRmBSaGbFxa89M
 
 
